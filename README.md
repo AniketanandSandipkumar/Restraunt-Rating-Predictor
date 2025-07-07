@@ -76,15 +76,15 @@ streamlit run app.py
 <br>
 -Edit
 <br>
--├── app.py                   Streamlit frontend interface
+-├── app.py                    (Streamlit frontend interface)
 <br>
--├── firstI.ipynb             Notebook with EDA + model training
+-├── firstI.ipynb             (Notebook with EDA + model training)
 <br>
--├── Dataset .csv             Raw dataset
+-├── Dataset .csv             (Raw dataset)
 <br>
--├── randomreg.pkl            Trained Random Forest model
+-├── randomreg.pkl            (Trained Random Forest model)
 <br>
--├── README.md                Project documentation (this file)
+-├── README.md                (Project documentation (this file))
 <br>
 
 ##📦 Requirements:
