@@ -70,28 +70,28 @@ streamlit run app.py
 
 ##🗂️ Project Structure
 
-graphql
-Copy
-Edit
-├── app.py                  # Streamlit frontend interface
-├── firstI.ipynb            # Notebook with EDA + model training
-├── Dataset .csv            # Raw dataset
-├── randomreg.pkl           # Trained Random Forest model
-├── README.md               # Project documentation (this file)
+-graphql
+-Copy
+-Edit
+-├── app.py                   Streamlit frontend interface
+-├── firstI.ipynb             Notebook with EDA + model training
+-├── Dataset .csv             Raw dataset
+-├── randomreg.pkl            Trained Random Forest model
+-├── README.md                Project documentation (this file)
 
 ##📦 Requirements
 
-Python 3.7+
-pandas
-numpy
-scikit-learn
-streamlit
-pickle
+-Python 3.7+
+-pandas
+-numpy
+-scikit-learn
+-streamlit
+-pickle
 
 ##📈 Example Output
-yaml
-Copy
-Edit
+-yaml
+-Copy
+-Edit
 Input:
 - Location: Connaught Place
 - Cuisine: North Indian
@@ -118,6 +118,6 @@ Input:
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ##📬 Contact
-Author: Aniketanand Sandipkumar
+-Author: Aniketanand Sandipkumar
 📧 [Email-Id](aniketanand2712@gmail.com)
 🔗 [LinkedIn](www.linkedin.com/in/aniketanand-sandipkumar-8475ab258)
