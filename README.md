@@ -68,7 +68,7 @@ pip install -r requirements.txt
 # Step 3: Run the Streamlit app
 streamlit run app.py
 
-##🗂️ Project Structure
+##🗂️ Project Structure:
 
 -graphql
 -Copy
@@ -79,7 +79,7 @@ streamlit run app.py
 -├── randomreg.pkl            Trained Random Forest model
 -├── README.md                Project documentation (this file)
 
-##📦 Requirements
+##📦 Requirements:
 
 -Python 3.7+
 -pandas
@@ -88,10 +88,8 @@ streamlit run app.py
 -streamlit
 -pickle
 
-##📈 Example Output
--yaml
--Copy
--Edit
+##📈 Example Output:
+
 Input:
 - Location: Connaught Place
 - Cuisine: North Indian
@@ -117,7 +115,7 @@ Input:
 ##🤝 Contributing
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-##📬 Contact
+##📬 Contact:
 -Author: Aniketanand Sandipkumar
 📧 [Email-Id](aniketanand2712@gmail.com)
 🔗 [LinkedIn](www.linkedin.com/in/aniketanand-sandipkumar-8475ab258)
