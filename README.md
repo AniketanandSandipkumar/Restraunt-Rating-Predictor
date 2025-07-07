@@ -71,51 +71,59 @@ streamlit run app.py
 ##🗂️ Project Structure:
 
 -graphql
+<br>
 -Copy
+<br>
 -Edit
+<br>
 -├── app.py                   Streamlit frontend interface
+<br>
 -├── firstI.ipynb             Notebook with EDA + model training
+<br>
 -├── Dataset .csv             Raw dataset
+<br>
 -├── randomreg.pkl            Trained Random Forest model
+<br>
 -├── README.md                Project documentation (this file)
+<br>
 
 ##📦 Requirements:
-
--Python 3.7+
--pandas
--numpy
--scikit-learn
--streamlit
--pickle
+<br>
+-Python 3.7+ <br>
+-pandas<br>
+-numpy<br>
+-scikit-learn<br>
+-streamlit<br>
+-pickle<br>
 
 ##📈 Example Output:
+<br>
+Input:<br>
+- Location: Connaught Place<br>
+- Cuisine: North Indian<br>
+- Votes: 320<br>
+- Latitude/Longitude: 28.633, 77.219<br>
+- Current Rating: 3.8<br>
 
-Input:
-- Location: Connaught Place
-- Cuisine: North Indian
-- Votes: 320
-- Latitude/Longitude: 28.633, 77.219
-- Current Rating: 3.8
-
-## Output:
+## Output:<br>
 ✅ Predicted Rating: 4.10 / 5
 
-##📚 Learnings & Takeaways
-1.Real-world data wrangling and cleaning
-2.Encoding and feature selection for categorical data
-3.Model selection and hyperparameter tuning
-4.Deployment using Streamlit
-5.Building intuitive interfaces for non-technical users
+##📚 Learnings & Takeaways<br>
+1.Real-world data wrangling and cleaning<br>
+2.Encoding and feature selection for categorical data<br>
+3.Model selection and hyperparameter tuning<br>
+4.Deployment using Streamlit<br>
+5.Building intuitive interfaces for non-technical users<br>
 
-##🚀 Future Improvements
-1.Support for real-time location detection via APIs
-2.Inclusion of more advanced models like XGBoost or deep learning
-3.Use of NLP on review texts (if available)
+##🚀 Future Improvements<br>
+1.Support for real-time location detection via APIs<br>
+2.Inclusion of more advanced models like XGBoost or deep learning<br>
+3.Use of NLP on review texts (if available)<br>
 
-##🤝 Contributing
+##🤝 Contributing<br>
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-##📬 Contact:
--Author: Aniketanand Sandipkumar
-📧 [Email-Id](aniketanand2712@gmail.com)
+##📬 Contact:<br>
+-Author: Aniketanand Sandipkumar<br>
+📧 [Email-Id](aniketanand2712@gmail.com)<br>
 🔗 [LinkedIn](www.linkedin.com/in/aniketanand-sandipkumar-8475ab258)
