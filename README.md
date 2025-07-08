@@ -87,15 +87,6 @@ streamlit run app.py
 -├── README.md                (Project documentation (this file))
 <br>
 
-##📦 Requirements:
-<br>
--Python 3.7+ <br>
--pandas<br>
--numpy<br>
--scikit-learn<br>
--streamlit<br>
--pickle<br>
-
 ##📈 Example Output:
 <br>
 Input:<br>
@@ -127,3 +118,4 @@ Pull requests and suggestions are welcome. For major changes, please open an iss
 -Author: Aniketanand Sandipkumar<br>
 📧 [Email-Id](aniketanand2712@gmail.com)<br>
 🔗 [LinkedIn](www.linkedin.com/in/aniketanand-sandipkumar-8475ab258)
+[App link](https://restraunt-rating-predictor-pv9na5bpdglgfc89wqsut2.streamlit.app)
