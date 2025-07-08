@@ -117,5 +117,5 @@ Pull requests and suggestions are welcome. For major changes, please open an iss
 ##📬 Contact:<br>
 -Author: Aniketanand Sandipkumar<br>
 📧 [Email-Id](aniketanand2712@gmail.com)<br>
-🔗 [LinkedIn](www.linkedin.com/in/aniketanand-sandipkumar-8475ab258)
+🔗 [LinkedIn](www.linkedin.com/in/aniketanand-sandipkumar-8475ab258)<br>
 [App link](https://restraunt-rating-predictor-pv9na5bpdglgfc89wqsut2.streamlit.app)
